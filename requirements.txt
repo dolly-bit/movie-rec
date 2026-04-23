@@ -12,5 +12,6 @@ streamlit>=1.40.0
 numpy==2.0.1
 scipy==1.13.1
 scikit-learn==1.6.1
+python-dotenv==1.0.1
 
 #streamlit==1.36.0
